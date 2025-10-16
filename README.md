@@ -98,15 +98,18 @@ Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love buil
 </p>
 
 ---
-
-<p align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f1f082b7-47dd-4718-a778-c76f10c0853e" width="50" alt="Icono">
-  <span style="font-size:20px; font-weight:bold; margin-left:10px;">Contáctame</span>
-</p>
-
+## 📫 Contáctame 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camila-morales-724041387/" alt="LinkedIn" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Camila%20Morales-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-Camila%20Morales-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://www.multitrabajos.com/candidatos/curriculum" alt="Multitrabajos" title="Ver mi CV en Multitrabajos">
+    <img src="https://img.shields.io/badge/Multitrabajos-CV-red?style=for-the-badge&logo=appveyor&logoColor=white"/>
+  </a>
+</p>
+
 
