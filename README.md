@@ -1,5 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
-<br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
+  <br><br>
+</p>
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
