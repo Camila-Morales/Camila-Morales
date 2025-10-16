@@ -9,11 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+%E2%80%A2+QA+%E2%80%A2+Databases;Learning+%26+improving+every+day&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&colors= 7e7fe5" alt="Camila Morales Info">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+%E2%80%A2+QA+%E2%80%A2+Databases&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=ab81e1" alt="Frontend QA Databases">
 </p>
 
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+%26+improving+every+day&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=d698e4" alt="Learning & improving every day">
+</p>
 
 
 <!-- markdownlint-enable MD033 -->
