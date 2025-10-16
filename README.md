@@ -111,7 +111,7 @@ Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love buil
 </p>
 
 ---
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f1f082b7-47dd-4718-a778-c76f10c0853e" width="50"> Contáctame 
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f1f082b7-47dd-4718-a778-c76f10c0853e" width="25"> Contáctame 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/camila-morales-724041387/" alt="LinkedIn" title="Connect on LinkedIn">
