@@ -102,7 +102,7 @@ Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love buil
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35"> GitHub Stats 
+## <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="25" style="vertical-align:middle; animation: spin 3s linear infinite;"> GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Camila-Morales&show_icons=true&theme=radical" alt="Camila's GitHub Stats" />
 </p>
