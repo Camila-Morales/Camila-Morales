@@ -20,7 +20,7 @@
 Hola! Soy Camila, una Ingeniera de Software enfocada en soluciones reales. Me apasiona construir experiencias frontend limpias, garantizar calidad con QA y manejar datos eficientemente como DBA. Siempre aprendiendo, construyendo y mejorando 🚀  
 
 <p align="center">
-  <img src="https://flagcdn.com/w40/usa.png" width="40" alt="Bandera de USA">
+  <img src="https://flagcdn.com/w40/us.png" width="40" alt="Bandera de USA">
 </p> 
 Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love building clean frontend experiences, ensuring quality through QA, and managing data efficiently as a DBA. Always learning, building, and improving 🚀
 
@@ -49,9 +49,8 @@ Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love buil
 ---
 
 ### 📊 Data Analysis / Análisis de datos  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
