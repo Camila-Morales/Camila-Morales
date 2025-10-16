@@ -12,74 +12,73 @@
 ---
 
 ## 🌟 About Me / Sobre mí <img src="https://cdn-icons-png.flaticon.com/512/2910/2910763.png" width="25" style="vertical-align:middle; animation: bounce 2s infinite;">
-    <img src="https://flagcdn.com/w40/ec.png" width="40" alt="Bandera de Ecuador"> 
+
+<p align="center">
+  <img src="https://flagcdn.com/w40/ec.png" width="40" alt="Bandera de Ecuador">
+</p>
+     
 Hola! Soy Camila, una Ingeniera de Software enfocada en soluciones reales. Me apasiona construir experiencias frontend limpias, garantizar calidad con QA y manejar datos eficientemente como DBA. Siempre aprendiendo, construyendo y mejorando 🚀  
 
-**EN:**  
+<p align="center">
+  <img src="https://flagcdn.com/w40/usa.png" width="40" alt="Bandera de USA">
+</p> 
 Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love building clean frontend experiences, ensuring quality through QA, and managing data efficiently as a DBA. Always learning, building, and improving 🚀
 
 ---
 
-## 💻 Skills / Habilidades <img src="https://cdn-icons-png.flaticon.com/512/190/190411.png" width="25" style="vertical-align:middle; animation: spin 3s linear infinite;">
+## 💻 Skills / Habilidades
 
-**Technologies / Tecnologías:**
+### 🧪 Testing & QA  
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![API Testing](https://img.shields.io/badge/Pruebas%20API-000000?style=for-the-badge)
+![Casos de prueba](https://img.shields.io/badge/Casos%20de%20Prueba-555555?style=for-the-badge)
 
-## 💻 Skills / Habilidades <img src="https://cdn-icons-png.flaticon.com/512/190/190411.png" width="25" style="vertical-align:middle; animation: spin 3s linear infinite;">
+---
 
-**Technologies / Tecnologías:**
+### 🗄️ Databases / Bases de datos  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🧪 Testing & QA
-JMeter, Postman, Selenium (básico), Cucumber (básico), casos de prueba, pruebas API  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40" height="40"/>
-</p>
+---
 
-### 🗄️ Databases / Bases de datos
-Oracle, PostgreSQL, MySQL Workbench, SQL Server, MongoDB, Firebase  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-</p>
+### 📊 Data Analysis / Análisis de datos  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### 📊 Data Analysis / Análisis de datos
-Power BI (en curso), Excel intermedio, consultas SQL  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-</p>
+---
 
-### 🌐 Web Development / Desarrollo web
-React, TailwindCSS, HTML, CSS, JavaScript  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
+### 🌐 Web Development / Desarrollo web  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🛠️ Tools / Herramientas
-GitHub, Docker (básico), Figma, Jira, Trello, IntelliJ, VS Code  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/>
-</p>
+---
 
-### 🧩 Methodologies / Metodologías
-Scrum, DevOps (básico), OOHDM  
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/2965/2965278.png" alt="Scrum" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/889/889657.png" alt="DevOps" width="40" height="40"/>
-</p>
+### 🛠️ Tools / Herramientas  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
+
+### 🧩 Methodologies / Metodologías  
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-4B275F?style=for-the-badge&logo=devops&logoColor=white)
+![OOHDM](https://img.shields.io/badge/OOHDM-555555?style=for-the-badge)
 
 ---
 
