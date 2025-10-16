@@ -99,9 +99,7 @@ Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love buil
 
 ---
 
-## 📫 Conecta / Contacta
-
-<p align="center">
+<p align="left">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f1f082b7-47dd-4718-a778-c76f10c0853e" width="50" alt="Icono">
   <span style="font-size:20px; font-weight:bold; margin-left:10px;">Contáctame</span>
 </p>
