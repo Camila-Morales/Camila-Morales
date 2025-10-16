@@ -18,8 +18,10 @@
 
 
 <!-- markdownlint-enable MD033 -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
 
----
+
 
 ## 🌟 About Me / Sobre mí <img src="https://cdn-icons-png.flaticon.com/512/2910/2910763.png" width="25" style="vertical-align:middle; animation: bounce 2s infinite;">
 
