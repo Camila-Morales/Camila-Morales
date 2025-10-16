@@ -40,12 +40,15 @@ Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love buil
 
 ### 🧪 Testing & QA  
 
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=whiteAlign=Center)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![API Testing](https://img.shields.io/badge/Pruebas%20API-000000?style=for-the-badge)
-![Casos de prueba](https://img.shields.io/badge/Casos%20de%20Prueba-555555?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pruebas%20API-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Casos%20de%20Prueba-555555?style=for-the-badge" />
+</p>
+
 
 ---
 
