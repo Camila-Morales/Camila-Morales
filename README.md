@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-world+solutions!;Frontend+%E2%80%A2+QA+%E2%80%A2+Databases;Learning+%26+improving+every+day+%F0%9F%9A%80&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000" alt="Typing SVG - Camila Morales">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+%E2%80%A2+QA+%E2%80%A2+Databases;Learning+%26+improving+every+day+%F0%9F%9A%80&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000" alt="Camila Morales Info">
 </p>
 
 <!-- markdownlint-enable MD033 -->
@@ -30,13 +30,12 @@ Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love buil
 
 ### 🧪 Testing & QA  
 
-  ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-  ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-  ![API Testing](https://img.shields.io/badge/Pruebas%20API-000000?style=for-the-badge)
-  ![Casos de prueba](https://img.shields.io/badge/Casos%20de%20Prueba-555555?style=for-the-badge)
-
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![API Testing](https://img.shields.io/badge/Pruebas%20API-000000?style=for-the-badge)
+![Casos de prueba](https://img.shields.io/badge/Casos%20de%20Prueba-555555?style=for-the-badge)
 
 ---
 
@@ -90,7 +89,7 @@ Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love buil
 
 ---
 
-## 📫 Connect / Conecta <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="25" style="vertical-align:middle; animation: bounce 2s infinite;">
+## 📫 Connect / Conecta
 <p align="center">
   <a href="https://www.linkedin.com/in/camila-morales-724041387/" alt="LinkedIn" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Camila%20Morales-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
