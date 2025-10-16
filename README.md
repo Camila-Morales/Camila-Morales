@@ -18,7 +18,7 @@
 
 ---
 
-## 🌟 [About Me / Sobre mí] <img src="https://cdn-icons-png.flaticon.com/512/2910/2910763.png" width="25" style="vertical-align:middle; animation: bounce 2s infinite;">
+## 🌟 About Me / Sobre mí 
 
 <p align="left">
   <img src="https://flagcdn.com/w40/ec.png" width="20" alt="Bandera de Ecuador">
