@@ -16,14 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Learning+%26+improving+every+day&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=d698e4" alt="Learning & improving every day">
 </p>
 
-
-<!-- markdownlint-enable MD033 -->
-
-<!-- LÍNEA -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-<br><br>
-
-
+---
 
 ## 🌟 About Me / Sobre mí <img src="https://cdn-icons-png.flaticon.com/512/2910/2910763.png" width="25" style="vertical-align:middle; animation: bounce 2s infinite;">
 
