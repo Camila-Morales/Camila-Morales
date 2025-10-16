@@ -24,7 +24,7 @@
   <img src="https://flagcdn.com/w40/ec.png" width="20" alt="Bandera de Ecuador">
 </p>
      
-Hola! Soy Camila, una Ingeniera de Software enfocada en soluciones reales. Me apasiona construir experiencias frontend limpias, garantizar calidad con QA y manejar datos eficientemente como DBA. Siempre aprendiendo, construyendo y mejorando.
+Hola! Soy Camila, Ingeniera de Software enfocada en soluciones reales. Me apasiona construir experiencias frontend limpias, garantizar calidad con QA y manejar datos eficientemente como DBA. Siempre aprendiendo, construyendo y mejorando.
 
 <p align="left">
   <img src="https://flagcdn.com/w40/us.png" width="20" alt="Bandera de USA">
