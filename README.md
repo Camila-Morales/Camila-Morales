@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+%E2%80%A2+QA+%E2%80%A2+Databases;Learning+%26+improving+every+day+%F0%9F%9A%80&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000" alt="Camila Morales Info">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+%E2%80%A2+QA+%E2%80%A2+Databases;Learning+%26+improving+every+day&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000" alt="Camila Morales Info">
 </p>
 
 <!-- markdownlint-enable MD033 -->
