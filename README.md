@@ -13,13 +13,13 @@
 
 ## 🌟 About Me / Sobre mí <img src="https://cdn-icons-png.flaticon.com/512/2910/2910763.png" width="25" style="vertical-align:middle; animation: bounce 2s infinite;">
 
-<p align="center">
+<p align="left">
   <img src="https://flagcdn.com/w40/ec.png" width="40" alt="Bandera de Ecuador">
 </p>
      
 Hola! Soy Camila, una Ingeniera de Software enfocada en soluciones reales. Me apasiona construir experiencias frontend limpias, garantizar calidad con QA y manejar datos eficientemente como DBA. Siempre aprendiendo, construyendo y mejorando 🚀  
 
-<p align="center">
+<p align="left">
   <img src="https://flagcdn.com/w40/us.png" width="40" alt="Bandera de USA">
 </p> 
 Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love building clean frontend experiences, ensuring quality through QA, and managing data efficiently as a DBA. Always learning, building, and improving 🚀
@@ -29,12 +29,14 @@ Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love buil
 ## 💻 Skills / Habilidades
 
 ### 🧪 Testing & QA  
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![API Testing](https://img.shields.io/badge/Pruebas%20API-000000?style=for-the-badge)
-![Casos de prueba](https://img.shields.io/badge/Casos%20de%20Prueba-555555?style=for-the-badge)
+<p align="center">
+  ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+  ![API Testing](https://img.shields.io/badge/Pruebas%20API-000000?style=for-the-badge)
+  ![Casos de prueba](https://img.shields.io/badge/Casos%20de%20Prueba-555555?style=for-the-badge)
+</p> 
 
 ---
 
