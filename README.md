@@ -15,10 +15,10 @@
 
 ## 🌟 About Me / Sobre mí
 **ES:**  
-Hola! Soy Camila, una Ingeniera de Software enfocada en soluciones reales. Me apasiona construir experiencias frontend limpias, garantizar calidad con QA y manejar datos eficientemente como DBA. Siempre aprendiendo, construyendo y mejorando 🚀  
+Hola! Soy Camila, una Ingeniera de Software. Me apasiona construir experiencias frontend limpias, garantizar calidad con QA y manejar datos eficientemente como DBA. Siempre aprendiendo, construyendo y mejorando 🚀  
 
 **EN:**  
-Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love building clean frontend experiences, ensuring quality through QA, and managing data efficiently as a DBA. Always learning, building, and improving 🚀
+Hi! I'm Camila, a Software Engineer. I love building clean frontend experiences, ensuring quality through QA, and managing data efficiently as a DBA. Always learning, building, and improving 🚀
 
 ---
 
@@ -27,18 +27,6 @@ Hi! I'm Camila, a Software Engineer focused on real-world solutions. I love buil
 **QA:** Testing, Automation, Postman  
 **Database / DBA:** MySQL, PostgreSQL, SQL Queries  
 **Other Tools:** Git, GitHub, VS Code, Agile/Scrum  
-
----
-
-## 📂 Featured Projects / Proyectos Destacados
-- **Project 1:** [Nombre del proyecto](#)  
-  *Frontend + QA project with real-world implementation*  
-- **Project 2:** [Nombre del proyecto](#)  
-  *Database & automation solution*  
-- **Project 3:** [Nombre del proyecto](#)  
-  *End-to-end feature integration, testing included*  
-
-*(Agrega links directos a tus repos aquí)*
 
 ---
 
